@@ -10,10 +10,10 @@ export default function Navbar() {
           TaskMaster
         </Typography>
         <Box sx={{ display: 'flex', gap: 2, alignItems: 'center' }}>
-          <Button color="inherit" disableRipple sx={{ textTransform: 'uppercase', fontWeight: 600, fontSize: '1rem', letterSpacing: 1, '&:focus': { outline: 'none' }, '&:active': { background: 'transparent' } }}>Dashboard</Button>
+          {/* <Button color="inherit" disableRipple sx={{ textTransform: 'uppercase', fontWeight: 600, fontSize: '1rem', letterSpacing: 1, '&:focus': { outline: 'none' }, '&:active': { background: 'transparent' } }}>Dashboard</Button>
           <Button color="inherit" disableRipple sx={{ textTransform: 'uppercase', fontWeight: 600, fontSize: '1rem', letterSpacing: 1, '&:focus': { outline: 'none' }, '&:active': { background: 'transparent' } }}>Projects</Button>
           <Button color="inherit" disableRipple sx={{ textTransform: 'uppercase', fontWeight: 600, fontSize: '1rem', letterSpacing: 1, '&:focus': { outline: 'none' }, '&:active': { background: 'transparent' } }}>Team</Button>
-          <Button color="inherit" disableRipple sx={{ textTransform: 'uppercase', fontWeight: 600, fontSize: '1rem', letterSpacing: 1, '&:focus': { outline: 'none' }, '&:active': { background: 'transparent' } }}>Reports</Button>
+          <Button color="inherit" disableRipple sx={{ textTransform: 'uppercase', fontWeight: 600, fontSize: '1rem', letterSpacing: 1, '&:focus': { outline: 'none' }, '&:active': { background: 'transparent' } }}>Reports</Button> */}
           <IconButton>
             <Avatar alt="User" src="https://randomuser.me/api/portraits/women/44.jpg" />
           </IconButton>

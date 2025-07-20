@@ -51,3 +51,8 @@ El frontend estará disponible en `http://localhost:5173`.
 ---
 
 ¡Explora, personaliza y extiende esta solución para tus propios proyectos de gestión de tareas!
+
+
+
+## COMENTARIOS
+Durante el desarrollo de la app para el backend utilizando copilot note una disminución significativa para el desarrollo de la app, rápidamente me construyo la app, solo tuvo que ajustar el modelo de TASK para respetar la consigna y aplicar que use la Base de dato sqlite. Pero en el desarrollo de la app para el Frontend me encontré con varios problemas con el diseño de las pantallas, al pasarle el html de los diseños realizados por stitch hizo que las vistas quedaran rotas y no aceptaban los cambios que le sugería, por ende, tuve que borrar el proyecto y arrancar de nuevo desde cero, guiando a la IA de copilot por cada uno de los módulos y luego aplicar la visual sugerida por stitch y logre que quede acorde a lo esperado. 
